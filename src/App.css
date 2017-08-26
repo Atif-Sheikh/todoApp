@@ -1,0 +1,18 @@
+.inputBtn{
+  width: 20%;
+  display: inline-block;
+  height: 35px;
+}
+.inputBtn2{
+  width: 80px;
+  margin-left: 5px;
+  display: inline-block;
+  height: 35px;
+}
+.listItem{
+  margin-left: 20px;
+}
+.heading{
+  color: rgba(0,0,0,0.3);
+  margin-left: 400px;
+}
